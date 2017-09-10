@@ -1,2 +1,2 @@
 # spring-ehcache-demo
-Project for Spring Boot Ehcache Demo
+Project for Spring Boot EhCache Demo
